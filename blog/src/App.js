@@ -24,8 +24,7 @@ function App() {
   return (
     <div className="App">
       <div className="black-nav">
-        <div style = { { color : 'blue', fontSize : '30px'} }>개발 Blog</div>
-           // postss로 대체 가능
+        <div style = { { color : 'white', fontSize : '30px'} }>개발 Blog</div>
       </div>
       <button onClick = { 제목바꾸기 } > 버튼 </button>
       <div className = "list">
